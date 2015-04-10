@@ -1,0 +1,11 @@
+{
+    "name": "bazaarcorner/bazaarcorner",
+    "version": "1.0.0",
+    "homepage": "https://github.com/BazaarCorner/BazaarLayout",
+    "authors": ["gabbydgab <gamba@gabbydgab.com>"],
+    "description": "Generic layout for Bazaar Corner, Inc.",
+    "main": "css/layout.css",
+    "moduleType": ["globals"],
+    "keywords": ["BazaarLayout"],
+    "license": "MIT"
+}
