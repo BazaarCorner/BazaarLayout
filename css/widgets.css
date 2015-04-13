@@ -1,0 +1,13 @@
+.widget-container { margin-bottom: 10px; }
+.widget-holder { box-shadow: 0px 2px 3px silver; border-top: 1px solid coral}
+.widget-body { padding: 10px; }
+
+.widget-container a:hover { text-decoration: none; }
+.widget-container a, a:link  { color: grey; text-decoration: none; }
+.widget-container .copyright{ color: grey; }
+.widget-container .list-inline a { color: black; }
+.widget-container .list-inline a:hover { color: red; }
+.widget-container .fa-facebook-square:hover { color: #0073ea; }
+.widget-container .fa-twitter-square:hover { color: #00b3ee; }
+.widget-container .fa-instagram:hover { color: chocolate; }
+.widget-container .fa-pinterest-square:hover { color: red; }
