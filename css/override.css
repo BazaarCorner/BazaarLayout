@@ -1,3 +1,8 @@
 .pagination > li > a, .pagination > li > a:hover { color: #FF4500; }
-
 .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover { background-color: #FF4500; border-color: #FF4500; }
+
+.menu .nav a { color: gray; }
+.nav a { color: #CC0033; }
+.nav > li  > a:hover { background-color: #CC0033; color: #fff; }
+.categories .nav > li > a:hover { background-color: #CC0033; color: #fff; }
+.menu {    margin: 0 auto;     text-align: center; }
