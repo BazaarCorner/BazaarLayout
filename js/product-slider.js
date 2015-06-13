@@ -8,8 +8,10 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $('.half-priced-items').bxSlider({
+    slideWidth: 170,
     minSlides: 1,
-    maxSlides: 6,
+    maxSlides: 7,
+    moveSlides: 6,
     slideMargin: 10
   });
 });
